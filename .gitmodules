@@ -1,0 +1,3 @@
+[submodule "SPIN"]
+	path = SPIN
+	url = https://github.com/avasenin-14/SPIN.git
